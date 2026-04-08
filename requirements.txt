@@ -1,0 +1,16 @@
+google-adk==1.28.1
+fastapi
+uvicorn
+python-dotenv
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+mcp
+google-auth
+google-auth-oauthlib
+requests
+httpx
+jinja2
+pydantic
+pydantic-settings
+uvloop

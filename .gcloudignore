@@ -1,0 +1,10 @@
+.git
+.gitignore
+.venv
+__pycache__
+*.pyc
+.adk
+
+# Explicitly allow these for the hackathon deployment
+!token.json
+!productivity_assistant/client.json
