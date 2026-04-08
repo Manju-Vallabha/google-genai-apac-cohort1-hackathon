@@ -9,17 +9,6 @@
 
 ---
 
-## 🖼️ Visual Showcase
-
-The Productivity Assistant is built with a focus on high-end aesthetics and seamless user interaction. Below are conceptual visualizations of the system in action.
-
-| **AI Command Center (UI Mockup)** | **Multi-Agent Orchestration Flow** |
-| :---: | :---: |
-| ![Dashboard UI](docs/images/dashboard_ui.png) | ![Workflow Visualization](docs/images/workflow_viz.png) |
-| *Premium glassmorphism dashboard for an executive "Chief of Staff" experience.* | *Isometric view of the collaboration between Scheduler, Researcher, and Map APIs.* |
-
----
-
 ## 🌟 The Vision: A Unified Intelligence Layer
 
 ### 🛑 The Problem: The "Context Switch" Tax
